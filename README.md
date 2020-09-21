@@ -1,10 +1,10 @@
 # Projeto Web - CRUD de Pacientes
+Controle de Pacientes usando o Framework CodeIgniter com algoritmo de validação do CNS e Upload de Imagem 
 
 ## Front-End: CSS/Bootstrap e Javascript/Jquery
-## Back-End: PHP e Banco de Dados Postgrees
-## Framework Back-End Utilizado: Code Igniter
+## Back-End: PHP/Code Igniter e Banco de Dados Postgrees
 
-###### Desenvolvimento de um sistema simples para Controle de Pacientes.
+##### Desenvolvimento de um sistema simples para Controle de Pacientes.
 
 ## Ferramentas utilizadas:
 - Linguagem de Programação: PHP;
